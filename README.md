@@ -7,4 +7,4 @@ whatever needs to go in here. Here I am updating my Readme file
 **bold text**
 *italic text*
 ~strike though bitches be crazy`	~
-
+* [Git Tutorial](/git.md)
