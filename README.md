@@ -1,4 +1,4 @@
-# miniproject1
+# IS601-Mini-Project-1
 ### Group Members
 * Tejesh Boppana
 * Harshitha Sadashiva Murthy
