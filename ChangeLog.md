@@ -30,8 +30,7 @@
 * Updated README.md - Harshitha Sadashiva Murthy
 * Added ChangeLog.md - Harshitha Sadashiva Murthy
 * Updated README.md:Fixed Errors- Harshitha Sadashiva Murthy
-* Updated about_git.md:Added Docker documentation
-- Harshitha Sadashiva Murthy
+* Updated about_git.md:Added Docker documentation - Harshitha Sadashiva Murthy
 * Updated about_git.md:Added Picture - Harshitha Sadashiva Murthy
 * Updated about_git.md:Added AT and CI documentation - Harshitha Sadashiva Murthy
 * Updated about_git.md:Fixed Errors - Harshitha Sadashiva Murthy
