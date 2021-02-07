@@ -23,6 +23,24 @@
 * Got latest from main, ready to merge - Tejesh Boppana
 * Fixed Info About Git - Tejesh Boppana
 
+## Feb 7, 2021
+
+### Tasks:
+* Updated README.md:Changed syntax - Harshitha Sadashiva Murthy
+* Updated README.md - Harshitha Sadashiva Murthy
+* Added ChangeLog.md - Harshitha Sadashiva Murthy
+* Updated README.md:Fixed Errors- Harshitha Sadashiva Murthy
+* Updated about_git.md:Added Docker documentation
+- Harshitha Sadashiva Murthy
+* Updated about_git.md:Added Picture - Harshitha Sadashiva Murthy
+* Updated about_git.md:Added AT and CI documentation - Harshitha Sadashiva Murthy
+* Updated about_git.md:Fixed Errors - Harshitha Sadashiva Murthy
+* Updated README.md - Harshitha Sadashiva Murthy
+* Updated README.md:Changed the name of the project - Harshitha Sadashiva Murthy
+* Updated ChangeLog.md - Harshitha Sadashiva Murthy
+* Updated ChangeLog.md:Added logs for Feb 3rd - Harshitha Sadashiva Murthy
+* Updated ChangeLog.md:Added logs for Feb 4th - Harshitha Sadashiva Murthy
+* Updated ChangeLog.md:Added logs for Feb 7th - Harshitha Sadashiva Murthy
 
 
 
