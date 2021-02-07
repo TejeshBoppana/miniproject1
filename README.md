@@ -7,7 +7,7 @@
 * [GitFlow Workflow](gitflow_workflow.md) 
 * [Git Commands](gitflow_commands.md) 
 * [Sources](git_sources.md)
-* [Change Log](/ChangeLog.md) 
+ 
 
 
 
