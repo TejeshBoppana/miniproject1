@@ -14,7 +14,7 @@
 ## Feb 4, 2021
 
 ### Tasks:
-*  Fixed Errors in README file - Tejesh Boppana
+* Fixed Errors in README file - Tejesh Boppana
 * Fixed Syntax Error in Git - Tejesh Boppana
 * Adjustments to syntax - Tejesh Boppana
 * Updated Index - Tejesh Boppana
