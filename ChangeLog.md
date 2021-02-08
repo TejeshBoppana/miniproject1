@@ -48,7 +48,7 @@
 ### Changelog Totals
 ** Harshitha Sadashiva Murthy**
  * Tasks = 4
- * Features = 10
+ * Features = 11
  * Fixes = 3
 
 **Tejesh Boppana** 
